@@ -7,8 +7,6 @@
 <h2> 🎩  A little about me... </h2>
 
 <pre>
-  💫  My Name is Ali Mohammadi and i am 20 years old ;
-  
   
   🪐 Im a junior front-end developer ;
   
