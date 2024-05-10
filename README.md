@@ -1,34 +1,6 @@
 <h1 align="left"> 👋🏻 Hi there, Welcome</h1> 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Genos&color=%2324F788&size=30&center=true&vCenter=true&width=500&height=80&lines=A+self-taught+front-end+developer)](https://git.io/typing-svg)
-
-
-<h2> 🎩  A little about me... </h2>
-
-<pre>
-  
-  🪐 Im a junior front-end developer ;
-  
-  
-  🎓 And also a Civil engineering student ;
-
-
-  🛠 I like working in teams and groups with other people ; 
-  
-  
-  🧠 I love learning new languages and other stuff ;
-  
-   
-  🌍  And i speak 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇮🇷 🇪🇸 ;
-
-</pre>
-
-
-
-
-
-
 
 <h2> 🖥 💛 Languages and Tools ... </h2>
 
